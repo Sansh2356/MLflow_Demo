@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91798/Desktop/Projects/Deployment_workflow/mlruns/0/7875fa02c51e48e09183b1b3cf63fd33/artifacts
+end_time: 1709619451085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7875fa02c51e48e09183b1b3cf63fd33
+run_name: placid-zebra-383
+run_uuid: 7875fa02c51e48e09183b1b3cf63fd33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709619446409
+status: 3
+tags: []
+user_id: '91798'
